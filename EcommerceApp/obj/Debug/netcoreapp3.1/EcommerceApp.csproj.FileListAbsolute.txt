@@ -1,0 +1,89 @@
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/db/Cars.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/db/Users.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.deps.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.runtimeconfig.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.runtimeconfig.dev.json
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.dll
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.Views.dll
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceApp.Views.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceCore.dll
+/Users/mac/Projects/EcommerceApp/EcommerceApp/bin/Debug/netcoreapp3.1/EcommerceCore.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.csproj.AssemblyReference.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.AssemblyInfoInputs.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.AssemblyInfo.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.RazorAssemblyInfo.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.RazorAssemblyInfo.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/staticwebassets/EcommerceApp.StaticWebAssets.Manifest.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.TagHelpers.input.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.TagHelpers.output.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.RazorCoreGenerate.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Login.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Auth/Register.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_AuthLayout.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.RazorTargetAssemblyInfo.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.RazorTargetAssemblyInfo.cs
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.Views.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.csproj.CopyComplete
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.dll
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/EcommerceApp.genruntimeconfig.cache
+/Users/mac/Projects/EcommerceApp/EcommerceApp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Detail.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\db\Cars.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\db\Users.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.exe
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.deps.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.runtimeconfig.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.runtimeconfig.dev.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.pdb
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.Views.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceApp.Views.pdb
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceCore.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\bin\Debug\netcoreapp3.1\EcommerceCore.pdb
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.AssemblyInfo.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\staticwebassets\EcommerceApp.StaticWebAssets.Manifest.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.TagHelpers.input.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.TagHelpers.output.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.RazorCoreGenerate.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.Views.pdb
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.csproj.CopyComplete
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.pdb
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceApp\obj\Debug\netcoreapp3.1\EcommerceApp.genruntimeconfig.cache

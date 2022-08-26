@@ -1,0 +1,20 @@
+/Users/mac/Projects/EcommerceApp/EcommerceCore/bin/Debug/netcoreapp3.1/EcommerceCore.deps.json
+/Users/mac/Projects/EcommerceApp/EcommerceCore/bin/Debug/netcoreapp3.1/EcommerceCore.dll
+/Users/mac/Projects/EcommerceApp/EcommerceCore/bin/Debug/netcoreapp3.1/EcommerceCore.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.AssemblyInfoInputs.cache
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.AssemblyInfo.cs
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.dll
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.pdb
+/Users/mac/Projects/EcommerceApp/EcommerceCore/obj/Debug/netcoreapp3.1/EcommerceCore.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\bin\Debug\netcoreapp3.1\EcommerceCore.deps.json
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\bin\Debug\netcoreapp3.1\EcommerceCore.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\bin\Debug\netcoreapp3.1\EcommerceCore.pdb
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.AssemblyInfo.cs
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.dll
+C:\Users\hp\Downloads\EcommerceApp (1)\EcommerceApp\EcommerceCore\obj\Debug\netcoreapp3.1\EcommerceCore.pdb
